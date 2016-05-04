@@ -1,3 +1,5 @@
 # Hello-World
 First time into programming so to Github
-first edit 
+first edit from patra
+will be on Ruby soon.....
+continued......
